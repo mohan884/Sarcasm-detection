@@ -1,13 +1,5 @@
-<<<<<<< HEAD
+
 # Sarcasm Detection using Bidirectional Encoder Representations from Transformers and Graph Convolutional Network
-
-This repository contains the code used in our paper:
-
-<h3><b><a href = "https://www.sciencedirect.com/science/article/pii/S1877050922024991">Sarcasm Detection using Bidirectional Encoder Representations from Transformers and Graph Convolutional Network</a></b></h3>
-<b>International Conference on Machine Learning and Data Mining (ICMLDE), 2022</b>
-
-Anuraj Mohan, Abhilash M Nair, Bhadra Jayakumar, Sanjay Muraleedharan</br>
-<i>Department of Computer Science and Engineering, NSS College of Engineering, Palakkad, Kerala, India</i>
 
 ---
 
@@ -53,4 +45,4 @@ python3 train.py
 This repository is licensed under MIT License. See [LICENSE](https://github.com/abhilashmnair/Sarcasm-Detection-with-BERT-and-GCN/blob/main/LICENSE) for full licensing text.
 =======
 # Sarcasm-detection
->>>>>>> 6cf2fc0517536773cf4d583bf428370efe870ff2
+
