@@ -16,6 +16,7 @@ def pad_and_truncate(sequence, maxlen, dtype='int64', padding='post', truncating
         x[-len(trunc):] = trunc
     return x
 
+
 class Tokenizer4Bert:
     def __init__(self, max_seq_len, pretrained_bert_name):
         self.tokenizer = BertTokenizer.from_pretrained(pretrained_bert_name)
