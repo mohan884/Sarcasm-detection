@@ -1,2 +1,0 @@
-from layers.gatlayer import GraphAttentionLayer
-from layers.gcnlayer import GraphConvolutionLayer
